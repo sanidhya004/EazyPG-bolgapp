@@ -1,0 +1,13 @@
+.createpost{
+    background-color:white;
+    height: 90%;
+
+}
+.maincontainer{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     padding-left: 50px;
+     padding-right: 50px;
+}

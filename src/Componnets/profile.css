@@ -1,0 +1,41 @@
+.profile{
+     display: flex;
+     color: white;
+}
+.side{
+    width: 30vw;
+    height: 100%;
+    border-right: solid;
+    color: rgb(149, 149, 149);
+    
+   
+}
+.profileimage{
+    height: 30%;
+     margin-right: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.show{
+     display: flex;
+     flex-direction: column;
+     width: 70vw;
+     padding-left: 10px;
+}
+.title{
+    height: 90%;
+   overflow-y: scroll;
+   
+}
+.like{
+    height: 10%;
+   color: black;
+   background-color: white;
+    
+    display: flex;
+    padding-left: 6px;
+    justify-content: space-between;
+    align-items: center;
+}
